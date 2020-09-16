@@ -1,5 +1,4 @@
-# Update scikit-learn
-conda install scikit-learn=0.23.1
+
 
 # Lab 7B: Creating a Batch Inferencing Service
 
