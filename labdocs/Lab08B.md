@@ -6,6 +6,9 @@ In this lab, you'll use automated machine learning to determine the optimal algo
 
 ## Before You Start
 
+# Update scikit-learn
+conda install scikit-learn=0.23.1
+
 Before you start this lab, ensure that you have completed [Lab 1A](Lab01A.md) and [Lab 1B](Lab01B.md), which include tasks to create the Azure Machine Learning workspace and other resources used in this lab.
 
 ## Task 1: Use Automated Machine Learning
